@@ -1,0 +1,1 @@
+# microservice-auth-data-config
