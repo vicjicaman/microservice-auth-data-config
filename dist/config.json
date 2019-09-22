@@ -1,0 +1,22 @@
+{
+  "SERVICE": {
+    "value": "auth-data-service",
+    "type": "id"
+  },
+  "STATEFUL": {
+    "value": "auth-data-set",
+    "type": "id"
+  },
+  "INTERNAL_HOST": {
+    "value": "auth-data-service.microservices-namespace",
+    "type": "host"
+  },
+  "INTERNAL_PORT": {
+    "value": 27017,
+    "type": "port"
+  },
+  "INTERNAL_URL": {
+    "value": "auth-data-service.microservices-namespace:27017",
+    "type": "url"
+  }
+}
